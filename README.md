@@ -41,7 +41,7 @@ Simply click the number buttons to enter the digits of the calculation. Press an
 
 ## Example
 
-Suppose you want to calculate `5 + 3 * 2`. Here's how you would enter it into the calculator:
+Suppose you want to calculate `(5 + 3) * 2`. Here's how you would enter it into the calculator:
 
 1. Click the number button `5`.
 2. Click the addition operator button `+`.
